@@ -1,0 +1,19 @@
+{
+    "name": "DeepSeek local Demo",
+    "image": "pytorch/pytorch:2.6.0-cuda12.6-cudnn9-devel",
+    "postCreateCommand": "pip install jupyter ipykernel ipywidgets plotly kaleido",
+    "runArgs": [
+        "--env-file=.devcontainer/devcontainer.env",
+        "--gpus",
+        "all"
+    ],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "RSIP-Vision.nvidia-smi-plus",
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    }
+}

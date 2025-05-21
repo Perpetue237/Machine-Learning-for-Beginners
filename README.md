@@ -66,16 +66,26 @@ Whether you're here to understand the concepts or get ready to build your own mo
 A hands-on walkthrough building a simple regression model from scratch and visualizing the learning process using Python.  
 ▶️ [Watch on YouTube](https://youtu.be/qcKl1bzla_o)
 
+![Polynomial Regression Plot](video-3-polynomial-regression/polynomial_regression.png)
+
+This video guides you through solving the following problem using gradient descent:
+
+\[
+y_{\text{pred}} = w_1 \cdot x + w_2 \cdot x^2 + \text{bias}
+\]
+
+This is a simple **polynomial regression** task, trained without the help of machine learning libraries — just raw Python and NumPy.
 
 You'll learn how to:
 
-- ✅ Understand polynomial regression intuitively
-- ✅ Implement gradient descent step by step
-- ✅ Visualize predictions using Plotly
-- ✅ Track model loss and improvement over time
-- ✅ Make predictions on unseen data
+- ✅ Understand polynomial regression intuitively  
+- ✅ Implement gradient descent step by step  
+- ✅ Visualize predictions using Plotly  
+- ✅ Track model loss and improvement over time  
+- ✅ Make predictions on unseen data  
 
-No scikit-learn. No shortcuts. Just hands-on learning to help you master the core ideas!
+🛠️ No scikit-learn. No shortcuts. Just hands-on learning to help you master the core ideas!
+
 ---
 
 ## 📂 Repository Structure
