@@ -3,7 +3,7 @@
 Welcome to the official GitHub repository for the **Machine Learning for Beginners** video series on **Debugging with KTiPs** 🎥.  
 This repository contains all the source code, examples, and notebooks featured in the YouTube playlist.
 
-> 📺 **Watch the full playlist on YouTube**: [Debugging with KTiPs]([https://www.youtube.com/playlist?list=PLzQIjF8znsFQh8b0W0O_PvFHTmC2zTYXJ](https://www.youtube.com/playlist?list=PLFj4gH4BU2fIUI4JnG8PCKA-r8almDDRU)) 
+> 📺 **Watch the full playlist on YouTube**: [Debugging with KTiPs](https://www.youtube.com/playlist?list=PLFj4gH4BU2fIUI4JnG8PCKA-r8almDDRU)
 
 ---
 
