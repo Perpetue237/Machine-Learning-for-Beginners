@@ -70,9 +70,9 @@ A hands-on walkthrough building a simple regression model from scratch and visua
 
 This video guides you through solving the following problem using gradient descent:
 
-$
+$`
 y_{pred} = w_1 \cdot x + w_2 \cdot x^2 + \text{bias}
-$
+`$
 
 This is a simple **polynomial regression** task, trained without the help of machine learning libraries — just raw Python and NumPy.
 
