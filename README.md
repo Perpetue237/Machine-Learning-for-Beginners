@@ -69,11 +69,11 @@ A hands-on walkthrough building a simple regression model from scratch and visua
 
 You'll learn how to:
 
-✅ Understand polynomial regression intuitively
-✅ Implement gradient descent step by step
-✅ Visualize predictions using Plotly
-✅ Track model loss and improvement over time
-✅ Make predictions on unseen data
+- ✅ Understand polynomial regression intuitively
+- ✅ Implement gradient descent step by step
+- ✅ Visualize predictions using Plotly
+- ✅ Track model loss and improvement over time
+- ✅ Make predictions on unseen data
 
 No scikit-learn. No shortcuts. Just hands-on learning to help you master the core ideas!
 ---
