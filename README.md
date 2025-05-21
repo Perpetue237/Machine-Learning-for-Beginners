@@ -15,10 +15,10 @@ This beginner-friendly playlist from Debugging with KTiPs walks you step by step
 No advanced math or data science experience required.
 We’ll go from basic definitions to building sequence models like LSTMs, with practical code, clear visuals, and honest explanations.
 
-✅ Understand key terms like features, labels, and models
-✅ Learn the full ML workflow: from data to deployment
-✅ Build real ML models—starting simple and growing more advanced
-✅ Explore supervised, unsupervised, and sequence learning (like LSTMs)
+- ✅ Understand key terms like features, labels, and models
+- ✅ Learn the full ML workflow: from data to deployment
+- ✅ Build real ML models—starting simple and growing more advanced
+- ✅ Explore supervised, unsupervised, and sequence learning (like LSTMs)
 
 [Subscribe and follow along at your own pace!](youtube.com/channel/UCc12pd-7Kyg73mU4cbW-mzg?sub_confirmation=1)
 
@@ -33,10 +33,10 @@ An introduction to what machine learning is, why it matters, and how to get star
 
 In this episode, we cover the core fundamentals of Machine Learning:
 
-✅ What ML is — and what it’s not
-✅ Why you don’t need a math or data science background to get started
-✅ Key terms: features, labels, and models
-✅ Overview of a typical ML workflow
+- ✅ What ML is — and what it’s not
+- ✅ Why you don’t need a math or data science background to get started
+- ✅ Key terms: features, labels, and models
+- ✅ Overview of a typical ML workflow
 
 We’re starting from scratch—all the way to building advanced models like LSTMs for time-based and sequential data. Whether you're just curious or ready to dive in, this series is designed to be clear, practical, and beginner-friendly.
 
@@ -52,12 +52,12 @@ We also break down the difference between Artificial Intelligence, Machine Learn
 Whether you're here to understand the concepts or get ready to build your own models, this is foundational knowledge you don’t want to skip.
 
 #### Covered Topics
-✅ AI vs Machine Learning vs Deep Learning
-✅ Supervised Learning (with examples)
-✅ Unsupervised Learning (with examples)
-✅ Reinforcement Learning (with dramatic examples)
-✅ Quick recap
-✅ Reminder to subscribe and keep going!
+- ✅ AI vs Machine Learning vs Deep Learning
+- ✅ Supervised Learning (with examples)
+- ✅ Unsupervised Learning (with examples)
+- ✅ Reinforcement Learning (with dramatic examples)
+- ✅ Quick recap
+- ✅ Reminder to subscribe and keep going!
 
 ---
 
